@@ -6,11 +6,13 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Built with Grok](https://img.shields.io/badge/Built%20with-Grok-000000?style=flat-square&logo=x&logoColor=white)
 
-![Internet Player](Internet%20Player.png)
-*Internet Player.png показва варианти 1 и 2*
+![Internet Player](Internet%20Player.png)  
 
-![EQ Internet Player](EQ%20Internet%20Player.png)
-*EQ Internet Player.png показва варианти 3-4-5*
+*Internet Player.png Variants 1 and 2*
+
+![EQ Internet Player](EQ%20Internet%20Player.png)  
+
+*EQ Internet Player.png Variants 3-4-5*
 
 A simple internet radio / stream player for **Linux Mint 22.2**.
 
