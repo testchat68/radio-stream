@@ -4,32 +4,37 @@
 ![Vala](https://img.shields.io/badge/Vala-GTK3-6B4FBB?style=flat-square)
 ![GStreamer](https://img.shields.io/badge/GStreamer-1.0-FF6B00?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Built with Grok](https://img.shields.io/badge/Built%20with-Grok-000000?style=flat-square&logo=x&logoColor=white)
+![Built with Grok](https://img.shields.io/badge/Built%20with-Grok-000000?style=flat-square&logo=x&logoColor=white)  
+
+*Internet Stream Player - Variants 1 and 2*  
 
 ![Internet Player](Internet%20Player.png)  
 
-*Internet Player.png Variants 1 and 2*
+
+
+*EQ Internet Stream Player - Variants 3-4-5*
 
 ![EQ Internet Player](EQ%20Internet%20Player.png)  
-
-*EQ Internet Player.png Variants 3-4-5*
 
 A simple internet radio / stream player for **Linux Mint 22.2**.
 
 Written in Vala + GTK3 + GStreamer. Lightweight, dark interface, with support for adding custom stations.
 
-## Installation
+## Installation  
 
-Всички готови за инсталиране файлове са в зип архива `stream radio.zip` в папка **Good Variants**.
+All ready-to-install files are in the zip archive  `stream radio.zip`  in the **Good Variants** folder.
 
-Download `radio-player_1.0.1_amd64.deb` and install it:
+Download `radio-player_1.0.*_amd64.deb` and install it:
 
 ```bash
-sudo dpkg -i radio-player_1.0.1_amd64.deb
+sudo dpkg -i radio-player_1.0.*_amd64.deb
 sudo apt install -f
 ```
 
-The second command installs any missing dependencies.
+The second command installs any missing dependencies.  
+
+Note: Versions can be from 1 to 5.  
+Replace the * with the number of the .deb file you want to install (e.g. radio-player_1.0.3_amd64.deb).
 
 ### Required packages
 
