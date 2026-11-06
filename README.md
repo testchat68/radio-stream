@@ -13,7 +13,7 @@
 ![EQ Internet Player](EQ%20Internet%20Player.png)  
 
 
-*EQ Internet Stream Player with buffer- Variant 7 (radio-player_1.0.7_amd64.deb)*  
+*EQ Internet Stream Player with buffer - player_8.3.6_amd64.deb)*  
 ![Screenshot 1.0.7](screenshot_8.3.6.png)  
 
 A simple internet radio / stream player for **Linux Mint 22.2**.
