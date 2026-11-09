@@ -5,6 +5,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Built with Grok](https://img.shields.io/badge/Built%20with-Grok-000000?style=flat-square&logo=x&logoColor=white)  
 
+*radio-player_10.3.6_amd64.deb - added support for: Volume, Next, Previous on the Lock Screen*
+
+
 *Internet Stream Player - Variants 1 and 2*  
 ![Internet Player](Internet%20Player.png)  
 
