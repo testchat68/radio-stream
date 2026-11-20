@@ -2,8 +2,11 @@
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-22.2-76b900?style=flat-square&logo=linux&logoColor=white)
 ![Vala](https://img.shields.io/badge/Vala-GTK3-6B4FBB?style=flat-square)
 ![GStreamer](https://img.shields.io/badge/GStreamer-1.0-FF6B00?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Built with Grok](https://img.shields.io/badge/Built%20with-Grok-000000?style=flat-square&logo=x&logoColor=white)  
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)    
+
+ 
+*Just Install This One:*
+![Just Install This One: ](Internet Player v.11.4.3.png)    
 
 
 *Internet Stream Player - Variants 1 and 2*  
