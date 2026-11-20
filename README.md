@@ -6,7 +6,7 @@
 
  
 *Just install this one:*  
-![Internet Player](Internet%Player%v.11.4.3.png)  
+![Internet Player](Internet_Player_v.11.4.3.png)    
 
 *Internet Stream Player - Variants 1 and 2*  
 ![Internet Player](Internet%20Player.png)  
