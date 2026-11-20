@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)    
 
  
-*Just Install This One:*
+*Just Install This One:*    
 ![Just Install This One: ](Internet Player v.11.4.3.png)    
 
 
