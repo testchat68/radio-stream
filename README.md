@@ -5,9 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)    
 
  
-*Just Install This One:*    
-![Just Install This One: ](Internet Player v.11.4.3.png)    
-
+*Just install this one:*  
+![Internet Player](IInternet%Player%v.11.4.3.png)  
 
 *Internet Stream Player - Variants 1 and 2*  
 ![Internet Player](Internet%20Player.png)  
