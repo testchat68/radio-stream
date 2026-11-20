@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)    
 
  
-*Just install this one:*  
+*Just install this one: radio-player_11.4.3_amd64.deb*  
 ![Internet Player](Internet_Player_v.11.4.3.png)    
 
 *Internet Stream Player - Variants 1 and 2*  
